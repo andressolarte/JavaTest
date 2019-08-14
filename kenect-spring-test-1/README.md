@@ -9,6 +9,9 @@ It is up to you as to how you structure your contact data. Think about real worl
 
 This project is configured with several Spring technologies. Feel free to add more or remove any that you would like.
 
+### Definition
+Contact: Just like you would find in your phone or address book. You need to store information pertinent to a person. What you store, how you store it, and why is up to you. Think about real-world scenarios and include information pertinent to those scenarios.
+
 ### What we are looking for
 Please use good programming patterns. We are looking for good separation of concerns, OOP principles, structure and relationships of your data. Really, just good code.
 
