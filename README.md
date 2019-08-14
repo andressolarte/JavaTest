@@ -5,3 +5,4 @@
     - Greg [gmascherino@kenect.com](mailto://gmascherino@kenect.com)
     - Jake [jeastman@kenect.com](mailto://jeastman@kenect.com)
     - Ryan [rhorlacher@kenect.com](mailto://rhorlacher@kenect.com)
+    - Cristian [cgarcia@kenect.com](mailto://cgarcia@kenect.com)
