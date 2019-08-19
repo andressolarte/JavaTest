@@ -1,4 +1,9 @@
 package com.kenect.kenectspringtest.repositories;
 
-public class ContactRepository {
+import com.kenect.kenectspringtest.domain.Contact;
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface ContactRepository extends CrudRepository<Contact, Integer> {
 }

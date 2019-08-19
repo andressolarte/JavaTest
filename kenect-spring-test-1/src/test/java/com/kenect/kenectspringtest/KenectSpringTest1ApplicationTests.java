@@ -11,6 +11,7 @@ public class KenectSpringTest1ApplicationTests {
 
 	@Test
 	public void contextLoads() {
+
 	}
 
 }
